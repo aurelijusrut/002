@@ -1,0 +1,8 @@
+#ignore all iamge files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.ico
